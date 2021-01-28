@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/dearlordlt/d10#readme",
   "devDependencies": {
-    "electron": "^5.0.1",
+    "electron": "^9.4.0",
     "electron-log": "^2.2.14",
     "electron-settings": "^3.0.7",
     "electron-shortcut-normalizer": "^1.0.0",
